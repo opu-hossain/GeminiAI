@@ -41,3 +41,7 @@ You'll need to obtain API keys from Google (provide instructions or a link to th
 I plan to enhance this project by building a web interface using Django. Contributions to improve the web interface or the codebase are appreciated!
 
 ### license
+
+Copyright (c) 2023 Salman Hossain.
+
+License Provided by MIT. Check the `LICENSE.md`
